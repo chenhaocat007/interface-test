@@ -7,9 +7,14 @@
 # @File    : ranhzi_suit.py  
 # @Software: PyCharm
 
+
 import unittest
 
 from test_case.test_historyweather import testHistoryWeather
+
+test_case
+
+
 
 if __name__ == '__main__':
     suite = unittest.TestSuite()
