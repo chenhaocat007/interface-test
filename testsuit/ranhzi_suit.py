@@ -12,7 +12,7 @@ import unittest
 
 from test_case.test_historyweather import testHistoryWeather
 
-test_case
+
 
 
 
